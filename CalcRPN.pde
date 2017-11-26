@@ -191,7 +191,7 @@ void init()
 //*********************************
 void draw()
 {
-  println("Redraw: ",frameCount);
+  //println("Redraw: ",frameCount);
   if (start)
   {
     //background(backCol);
